@@ -62,6 +62,8 @@ Under the following terms:
 
 For the full license text, visit: https://creativecommons.org/licenses/by-nc/4.0/
 
+<p><a href="aurumai.html">Learn more about AurumAI →</a></p>
+
 © 2025 Black Sand Outfitters
 
 
